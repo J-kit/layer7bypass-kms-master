@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="combahton Manager">
+    <meta name="author" content="combahton IT Services">
+    <title>combahton Manager</title>
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/sb-admin.css" rel="stylesheet">
+    <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+    <!-- Page Specific CSS -->
+    <link rel="stylesheet" href="https://cdn.oesmith.co.uk/morris-0.4.3.min.css">    <!-- Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:light,lightitalic,regular,italic,500,500italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Imprima' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Prosto+One' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Signika+Negative' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+</head>
+
+  <body>
+
+    <div id="wrapper">
+
+      <!-- Sidebar -->
+      <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          
+<a class="navbar-brand" style="color:#FFFFFF; font-size:24px"><img src="https://kms-manager.com/img/kms_logo.png" style="width:26px; margin-top:-4px" /><font style="color:#FFF">&nbsp;combahton Manager</font></a>
+
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav side-nav"><li class="active"><a href="/customers/login.php"><i class="fa fa-users"></i>&nbsp;Anmelden</a></li>
+		  <li class="active"><a href="/customers/password.php"><i class="fa fa-leaf"></i>&nbsp;Passwort?</a></li>
+		  <li class="active">
+		<!--<a><form action="/customers/language.php" method="GET">
+		<select name="change" class="form-control" style="width:180px; font-size:14px">
+		<option>Sprache / Language </option>
+		<option value="de" onClick="this.form.submit();">Deutsch</option>
+		<option value="en" onClick="this.form.submit();">English</option>
+		</select></form></a>--!>
+</li></ul><ul class="nav navbar-nav navbar-right navbar-user"><li class="dropdown user-dropdown"><a href="/customers/language.php?change=de"><img src="/img/icons/de.png" /></a></li>
+	<li class="dropdown user-dropdown"><a href="/customers/language.php?change=en"><img src="/img/icons/us.png" /></a></li><li class="dropdown user-dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"> <img src="/img/icons/information.png"/>&nbsp;&Uuml;ber<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="https://www.kms-hosting.com/agb" target="blank">Unsere AGB</a></li>
+                <li><a href="https://www.kms-hosting.com/wp-content/uploads/2015/10/widerruf.pdf" target="blank">Widerrufsrecht</a></li>
+                <li class="divider"></li>
+                <li><a href="https://www.kms-hosting.com/impressum/" target="blank">Impressum</a></li>
+              </ul>
+	</li>
+	</ul>
+        </div><!-- /.navbar-collapse -->
+      </nav>
+
+      <div id="page-wrapper"><h1>Kundenbereich</h1>
+<form action="/customers/logmein.php" method="post" style="margin-top:30px; min-height:300px">
+<input type="text" name="email" id="textfield" class="form-control" style="width:300px;" /><br/>
+<input type="password" name="password" id="textfield" class="form-control" style="width:300px;" /><br/>
+<input type="submit" value="Anmelden" class="btn btn-success" />&nbsp;&nbsp;<a href="password.php" class="btn btn-info" style="height:34px;">Passwort vergessen</a>
+</form>      
+	</div><!-- /#page-wrapper -->
+
+    </div><!-- /#wrapper -->
+
+    <!-- JavaScript -->
+    <script src="/js/jquery-1.10.2.js"></script>
+    <script src="/js/bootstrap.js"></script>
+
+    <!-- Page Specific Plugins -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+    <script src="http://cdn.oesmith.co.uk/morris-0.4.3.min.js"></script>
+    <script src="/js/morris/chart-data-morris.js"></script>
+    <script src="/js/tablesorter/jquery.tablesorter.js"></script>
+    <script src="/js/tablesorter/tables.js"></script>
+
+  </body>
+</html>
+
+
