@@ -8,3 +8,10 @@ c:\users\darkie\documents\visual studio 2015\Projects\KMS ddosprotection bypass\
 c:\users\darkie\documents\visual studio 2015\Projects\KMS ddosprotection bypass\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.pdb
 F:\File\Dokumente\Visual Studio 2015\Projects\KMS ddosprotection bypass\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.exe
 F:\File\Dokumente\Visual Studio 2015\Projects\KMS ddosprotection bypass\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.pdb
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.exe
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.pdb
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\bin\Debug\KMS ddosprotection bypass.exe
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\bin\Debug\KMS ddosprotection bypass.pdb
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.csprojResolveAssemblyReference.cache
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\obj\Debug\KMS_ddosprotection_bypass.Properties.Resources.resources
+F:\File\Dokumente\Visual Studio 2015\Github\layer7bypass-kms-master\KMS ddosprotection bypass\obj\Debug\KMS ddosprotection bypass.csproj.GenerateResource.Cache
